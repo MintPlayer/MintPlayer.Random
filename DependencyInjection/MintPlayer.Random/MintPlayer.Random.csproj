@@ -8,6 +8,10 @@
     <Description>This package contains a default implementation of the Randomizer</Description>
     <Copyright></Copyright>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/MintPlayer/MintPlayer.Random</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MintPlayer/MintPlayer.Random</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Random, string</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
