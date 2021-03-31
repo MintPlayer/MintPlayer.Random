@@ -5,6 +5,6 @@ namespace MintPlayer.Random.Abstractions
 {
     public interface IRandomizer
     {
-        Task<string> RandomString();
+        Task<string> RandomString(int length = 20);
     }
 }
