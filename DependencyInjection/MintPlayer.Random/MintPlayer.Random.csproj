@@ -12,6 +12,7 @@
     <RepositoryUrl>https://github.com/MintPlayer/MintPlayer.Random</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Random, string</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
